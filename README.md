@@ -13,6 +13,7 @@ Graphical Interface: User-friendly interface to handle all operations without co
 Prerequisites
 To run this application, you will need the following software installed on your machine:
 
-# Python 3.x
+# Dependencies
+Python 3.8 
 Circos (for generating connectograms)
 Freesurfer (optional for reading specific brain data)
